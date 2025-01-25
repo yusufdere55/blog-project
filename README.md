@@ -146,10 +146,3 @@ Authorization: Bearer <token>
    - Endpoint dokümantasyonu
    - Örnek kullanımlar
 
-## Katkıda Bulunma
-
-1. Fork'layın
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Commit'leyin (`git commit -m 'feat: Add amazing feature'`)
-4. Push'layın (`git push origin feature/amazing-feature`)
-5. Pull Request açın
